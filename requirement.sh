@@ -12,6 +12,6 @@ apt install ruby -y
 gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
-echo -e "\e[1m Now Run bash t-ban.sh...!!!"
+echo -e "\e[1m Now Run bash c-banner.sh...!!!"
 echo
 echo -e "\e[1m\e[32m Developed by :\e[33m Sutariya Parixit (8h4i)"
